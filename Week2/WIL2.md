@@ -22,7 +22,7 @@ commit = staged 영역에 변화들이 쌓이고 그것들을 엮어 local repos
 push = commit한 파일을 remote repository로 보냄
 pull 과 fetch의 차이는 서버와 로컬의 병합을 자동처리하는지의 여부
 pull = 원격 서버에서 최신 커밋들을 내려받아서 현재 로컬 브랜치와 자동으로 병합
-fetch = 원격저장소에서 커밋된 코드를 임시 브랜치로 다 내려받음 -> 자동병합 X 'merge'를 이용해 수동병합
+fetch = 원격저장소에서 커밋된 코드를 임시 브랜치로 다 내려받음 -> 자동병합 X 'merge'를 이용해 수동병합만 가능함
 
 
 
